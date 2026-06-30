@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm Aisha 👋</h1>
+<h1 align="center">Hi, I'm Ayesha Sheikh 👋</h1>
 <h3 align="center">AI/ML Engineer in the making | GenAI & Automation Builder</h3>
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=2E9EF7&center=true&vCenter=true&width=600&lines=Building+AI-powered+tools+that+solve+real+problems;RAG+pipelines+%7C+LLM+integrations+%7C+FastAPI+%2B+React;Gold+Tier+%40+AI+Seekho+2026+%F0%9F%8F%86;Currently+leveling+up%3A+LangGraph+%7C+CrewAI+%7C+n8n" alt="Typing SVG" />

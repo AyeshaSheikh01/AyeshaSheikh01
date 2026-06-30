@@ -53,11 +53,6 @@ Hands-on notebooks covering data wrangling, EDA, and core ML workflows — part 
 Pandas NumPy Scikit-learn
 
 
-📌 Pin these three (or your best three) repos on your profile — see instructions below.
-
-
-
-
 📈 GitHub Stats
 
 <p align="center">

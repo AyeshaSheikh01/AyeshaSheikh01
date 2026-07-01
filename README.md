@@ -12,12 +12,14 @@
 🧠 About Me
 
 
-🎓 3rd-year Computer Science undergrad at NUML, Multan
-🚀 Building toward a career as an AI/ML Engineer, focused on practical, deployable GenAI systems
-🏆 Gold Tier winner at AI Seekho 2026 (Phase 1) for Bossify — an AI-powered decision advisor
-🔭 Currently working through an 8-week GenAI + AI Automation roadmap (CampusX "100 Days of ML")
-🌱 Leveling up on LangGraph, CrewAI, and n8n (agentic workflows + automation with native MCP support)
-💬 Ask me about RAG pipelines, LLM integration, or FastAPI + React app architecture
+🎓 3rd-year Computer Science undergrad at NUML, Multan 
+</br>
+🚀 Building toward a career as an AI/ML Engineer, focused on practical, deployable GenAI systems 
+</br>
+🏆 Gold Tier winner at AI Seekho 2026 (Phase 1) for Bossify — an AI-powered decision advisor 
+</br>
+💬 Ask me about RAG pipelines, LLM integration, or FastAPI + React app architecture 
+</br>
 📫 Open to AI/ML internships and entry-level roles
 
 
